@@ -1,0 +1,27 @@
+<employees>
+    <employee id= "01">
+        <firstname> John </firstname>
+        <lastname> Woz </lastname>
+        <title> Senior QA Engineer </title>
+        <office> Headquarter </office>
+        <officelocation> Suite 15, 9th Floor </officelocation>
+    </employee>
+</employees>
+<employees>
+    <employee id= "02">
+        <firstname> Sasha </firstname>
+        <lastname> Taliman </lastname>
+        <title> Head Procurement Officer </title>
+        <office> Malawi Office </office>
+        <officelocation> Suite 9, 12th Floor </officelocation>
+    </employee>
+</employees>
+<employees>
+    <employee id= "03">
+        <firstname> Philomenaaa </firstname>
+        <lastname> Tailwoman </lastname>
+        <title> Head Fishing Officer </title>
+        <office> Tanzanian Office </office>
+        <officelocation> Suite 12, 314th Floor </officelocation>
+    </employee>
+</employees>
